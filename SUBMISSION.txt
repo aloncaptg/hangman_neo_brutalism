@@ -1,0 +1,35 @@
+================================================================================
+TUGAS PRAKTIKUM: FLUTTER SPEED CODE CHALLENGE
+================================================================================
+
+Nama                    : Attaridho Ananda Susilo
+Topik Proyek            : Hangman Game (Nomor 3)
+Batasan Kesalahan       : Maksimal 6 Kali Salah Tebak
+Gaya Desain             : Neo-Brutalism
+Status Validasi Kode    : 100% Lolos flutter analyze & flutter test (Zero Error)
+
+--------------------------------------------------------------------------------
+TAUTAN PENGUMPULAN:
+--------------------------------------------------------------------------------
+Link GitHub Repository (Public) : https://github.com/aloncaptg/hangman_neo_brutalism
+Link Video Demo Aplikasi        : [Isi Tautan Video Google Drive / YouTube Unlisted Anda]
+
+--------------------------------------------------------------------------------
+RINGKASAN FITUR APLIKASI:
+--------------------------------------------------------------------------------
+1. Logika & State Hangman Game Mandiri:
+   - Bank kata coding/teknologi interaktif lengkap dengan kategori & hint.
+   - Placeholder kata tersembunyi responsif.
+   - Virtual keyboard alfabet QWERTY interaktif dengan pewarnaan status tebakan.
+   - Batasan ketat 6 kesalahan dengan indikator nyawa visual.
+   - Visualisasi bertahap karakter Hangman menggunakan CustomPainter proporsional.
+   - Deteksi otomatis kondisi Kemenangan (Win) dan Kekalahan (Game Over) dengan dialog interaktif.
+   - Fitur Reset / New Game untuk mengacak kata baru secara dinamis.
+
+2. Konsistensi Desain Neo-Brutalism:
+   - Border hitam tebal (2.5px - 4px) pada seluruh elemen card, button, dan keyboard.
+   - Hard shadow solid tanpa blur (blurRadius: 0, Offset 3-8px).
+   - Palet pop-art cerah (Kuning tegas, Pink punch, Mint green, Neon cyan, Vintage cream).
+   - Tipografi bold monospace dan micro-interaction taktil saat tombol ditekan.
+   - Menggunakan Flutter SDK murni tanpa dependensi eksternal agar bebas kendala build.
+================================================================================
